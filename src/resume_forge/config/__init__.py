@@ -1,0 +1,1 @@
+"""Configuration layer — settings, provider keys, prompt packs."""

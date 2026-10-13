@@ -1,0 +1,1 @@
+"""Parsers — turn PDF/DOCX/TXT/HTML into a Resume model."""

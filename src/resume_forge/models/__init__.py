@@ -1,0 +1,1 @@
+"""Domain models — pydantic v2 schemas for resumes, jobs, and forge results."""
